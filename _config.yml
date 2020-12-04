@@ -43,8 +43,8 @@ features                                  :
 
 
 
-    - title                                 :Description
-    description                           : hhaaaaa
+title:Info
+description                           : hhaaaaa
     fontawesome_icon_name                 : info-circle
 
 
