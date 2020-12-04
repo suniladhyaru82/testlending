@@ -36,16 +36,39 @@ features                                  :
 
  
   
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
+ 
   - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+    description                           : Get to sleep in 20 minutes or less with Bedtime Sleep Fan. Get high quality deep sleep in no time with this APP!
+
+Sleep fan helps you fall asleep faster, get high quality deep sleep, relieve stress and wake up fresh.
+
+Perfect for:
+* Sleep aid
+* Relaxing
+* Noise masking
+* Reduce stress
+* Focusing
+* Calming your mind
+* Studying
+* Soothing sound for baby
+
+Features include:
+* 5 Soothing High Quality Fan Sounds / White Noise
+* Fan sounds at 3 speed levels (high, medium and low)
+* Keeps running in background
+* Configurable timer to turn the fan off
+* Intuitive Spinning Fan animation
+* No background noise, just clean fan sounds
+* Quite and loud fans
+* Box fan noise
+* Infinite playback
+* White noise fan sound works fast and offline
+
+Many people rely on the sound of their fan to help them fall asleep quickly. But the problem is that you can't always have your fan with you!!
+
+But you have your Android mobile phone with you most of the time !! So if you download this app then you have the noise of your fan with you wherever you are!
+
+Get a better sleep with "Sleep Fan - Fan noises for sleeping". Download now for FREE !!
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
