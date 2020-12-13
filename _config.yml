@@ -12,7 +12,8 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : 
+app_description                           : "Get to sleep in 20 minutes or less with Bedtime Sleep Fan. Get high quality deep sleep in no time with this APP! <br>  Sleep fan helps you fall asleep faster, get high quality deep sleep, relieve stress and wake up fresh."
+
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -37,33 +38,11 @@ features                                  :
   
                                              
 
-  - title                                 : About this app
-    description                           : "<p>Get to sleep in 20 minutes or less with Sleep Fan. Get high quality deep sleep in no time with this APP! </p>
-    <p> <br>Sleep fan helps you fall asleep faster, get high quality deep sleep, relieve stress and wake up fresh.</p> 
-    <p> <br> Perfect for:
-    <br> * Sleep
-    <br> * Relaxing
-    <br> * Noise masking
-    <br> * Reduce stress
-    <br> * Focusing
-    <br> * Calming your mind
-    <br> * Studying
-    <br> * Soothing sound for baby </p>
-    
-    <p> <br> Features include:
-      <br>  * 5 Soothing High Quality Fan Sounds / White Noise
-      <br> * Fan sounds at 3 speed levels (high, medium and low)
-      <br>  * Keeps running in background
-      <br>  * Configurable timer to turn the fan off
-      <br>  * Intuitive Spinning Fan animation </p>
-
-<p> <br> Many people rely on the sound of their fan to help them fall asleep. But the problem is that you can't always have your fan with you!! </p>
-<p> <br> But you have your iPhone or iPad with you most of the time !! So if you download this app then you have the noise of your fan with you wherever you are!</p>
-<p> <br> Get a better sleep with Sleep Fan !! Download now for FREE !! </p>
+  - title                                 : 
+    description                           : 
 
 
-    
- "
+   
     fontawesome_icon_name                 : info-circle        
 
 
