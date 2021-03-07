@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : " Having trouble sleeping or want to get relaxed? Rain Sounds app helps you fall asleep fast quickly. Ideal for sleeping, relaxing, meditation and tinnitus problems. <br>  Ideal for sleeping, relaxing, meditation and tinnitus problems.
+app_description                           : " Having trouble sleeping or want to get relaxed? Rain Sounds app helps you fall asleep fast quickly. Ideal for sleeping, relaxing, meditation and tinnitus problems. <br> <br>  Ideal for sleeping, relaxing, meditation and tinnitus problems.
 "
 
 
