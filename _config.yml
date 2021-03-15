@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/ic_launcher_round.png                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : "Meditation Music"                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : "Take a break in your day to relax and breathe. Discover how meditation and relaxation music can help you find inner peace and improve your life.  <br> <br>  Ideal for sleeping, relaxing, meditation and tinnitus problems.
+app_description                           : "Take a break in your day to relax and breathe. Discover how meditation and relaxation music can help you find inner peace and improve your life.
 "
 
 
